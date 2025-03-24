@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 30px;
+    color: rgba(74, 74, 74, 0.849);
+}
+
+button {
+    color: white;
+    background-color: rgb(39, 172, 255);
+    border: 0px;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 0 15px rgba(37, 37, 37, 0.74);
+}
+
+#start-btn {
+    font-size: 30px;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+}
+
+.container {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.answer-btn {
+    margin-left: 10px;
+    height: 40px;
+    width: 120px;
+}
+
+.question-box {
+    padding: 28px;
+    border-radius: 50px;
+    box-shadow: 0 0 19px rgba(0, 0, 0, 0.507);
+}
+
+button:hover {
+    background-color: rgb(83, 189, 255);
+}
