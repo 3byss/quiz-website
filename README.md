@@ -1,3 +1,11 @@
-It is pretty self explanitory this is a quiz website.
+Simple quiz app that I made with HTML, CSS, and Javascript.
 
-To let you know I am having trouble getting the CSS to apply for the file play.html
+This is the most up to date verison
+
+-- Added localStorage save
+
+-- Fixed issues with the CSS not applying to all HTML files
+
+-- Fixed any JS bugs
+
+4/25/2025 most recent changes
