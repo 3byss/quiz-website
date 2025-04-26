@@ -14,11 +14,20 @@ button {
     box-shadow: 0 0 15px rgba(37, 37, 37, 0.74);
 }
 
+.score {
+    display: flex;
+    flex-direction: row;
+}
+
+.high-score {
+    margin-right: 47px;
+}
+
 #start-btn {
-    font-size: 30px;
-    width: fit-content;
-    height: fit-content;
-    padding: 10px;
+    height: 78px;
+    width: 279px;
+    font-size: 40px;
+    font-weight: bold;
 }
 
 .container {
@@ -43,5 +52,5 @@ button {
 }
 
 button:hover {
-    background-color: rgb(83, 189, 255);
+    background-color: rgb(117, 202, 255);
 }
